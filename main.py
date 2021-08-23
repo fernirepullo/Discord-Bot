@@ -92,5 +92,5 @@ async def joined(ctx, member: discord.User):
 #         response = await raw_response.text()
 
 pandaBot.run(
-    "ODc5MzMxNzEzOTg4MzI5NTQz.YSOLeQ.LLctJ1eYey7QTpfvLg4H_92BmRk"
+    "TOKEN"
 )
