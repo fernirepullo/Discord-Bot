@@ -53,11 +53,6 @@ async def roll(ctx, dice: str):
 
 
 @pandaBot.command()
-async def yami(ctx):
-    await ctx.send('Yami africana')
-
-
-@pandaBot.command()
 async def volkacio(ctx):
     await ctx.send('Volkacio is real')
 
